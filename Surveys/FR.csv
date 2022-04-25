@@ -2,7 +2,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 21/02/2019,FR, ,H,Paris,"35,000 €",EUR,,5,"mutuelle, tickets restos, intéressement, CE50% transports, RTT",CDI
 19/02/2019,FR,2D ANIMATOR,F,Paris,"24,600 €",EUR,,2,Mutuelle 50%,CDI
 15/07/2019,FR,2D ARTIST / concept artist,F,2020,"32,750 €",EUR,,3,"Horaires flexibles, 100 % Mutuelle + Mutuelle complémentaire, prime de Noël, Deliveroo Business",CDI - concept art; UI; anim 2D; art ingame; illustration & graphisme de com...
-25/02/2019,FR,2D/3D ARTIST,F,Lille,"30,000 €",EUR,300.00 €,8,"Télétravail, horaires libres, temps pour d'autres activités (enseignement, conférences...), collaborations multiples",Freelance
+25/02/2019,FR,2D/3D ARTIST,F,Lille,"30,000 €",EUR,300.00,8,"Télétravail, horaires libres, temps pour d'autres activités (enseignement, conférences...), collaborations multiples",Freelance
 18/02/2019,FR,2D/3D ARTIST,F,Paris,"25,000 €",EUR,,5,"CE, fruits en libre service, accès à des conférences et formations",
 ,FR,2D/3D ARTIST,F,Lille,"25,200 €",EUR,,11,"Ticket resto, 50% transports, mutuelle, CE, prime vacances, prime de participation",CDI - 35h
 07/04/2021,FR,3D ANIMATOR,NB,Angoulême,"26,400 €",EUR,,3,"télétravail, horaires libres",CDD
@@ -14,7 +14,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 20/10/2021,FR,3D ANIMATOR,H,Paris,29 400 €,EUR,,2.5,"50% transports, tickets resto, mutuelle, actions gratuites",CDI 35h
 7/4/2022,FR,3D ANIMATOR,H,Paris,34 000 €,EUR,,3,"mutuelle, RIE",CDI 35h
 29/01/2021,FR,3D ANIMATOR,F,Bordeaux,"29,400 €",EUR,,2,"50% Transports, Mediathèque, mutuelle, primes, chèque cadeaux et tickets restau",CDD 35h
-08/06/2020,FR,3D ANIMATOR,H,Province,"50,000 €",EUR,650 €,7,"Freelance, donc déduction des coûts du C.A., et avantages typiques de la vie de freelanceur (pas de transports, liberté de travailler sur ce qu'on veut, etc.)","Freelance. C.A. annuel très variable (entre 30 et 125k, j'ai donc renseigné la moyenne)"
+08/06/2020,FR,3D ANIMATOR,H,Province,"50,000 €",EUR,650.00,7,"Freelance, donc déduction des coûts du C.A., et avantages typiques de la vie de freelanceur (pas de transports, liberté de travailler sur ce qu'on veut, etc.)","Freelance. C.A. annuel très variable (entre 30 et 125k, j'ai donc renseigné la moyenne)"
 08/06/2020,FR,3D ANIMATOR SENIOR,H,Paris,"36,000 €",EUR,,12,"Tickets resto, RTT, 50% transport, CE, 50% Mutuelle, no crunch obligation",CDI - Cadre
 19/02/2019,FR,3D ANIMATOR SENIOR,H,Paris,"46,000 €",EUR,,4,"RTT (legal amount), 50% transport, Mutuelle, Free monthly game, NO bonus",CDI - Cadre
 08/06/2020,FR,3D ARTIST,H,Annecy,"34,000 €",EUR,,3,"Tickets Resto (9€, 50% par l'entreprise), Transport 50% ( Obligatoire ) , Mutuelle %?i",CDI
@@ -25,7 +25,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 19/02/2019,FR,3D ARTIST,H,Lyon,"29,100 €",EUR,,4,"Transport 50%, mutuelle 50%, Ticket Resto, jeux gratuits, réductions",CDI
 20/02/2019,FR,3D ARTIST,H,Lyon,"31,000 €",EUR,,15,"Tickets resto (9€, 50% par l'entreprise), transport 50%",CDI
 22/02/2022,FR,3D ARTIST,F,Paris,"30,000 €",EUR,,1,"Tickets resto (9€, 50% par l'entreprise), transport 50%, intéressements, Fruits",CDI - Cadre 35h
-18/02/2019,FR,3D ARTIST,H,Nantes,,EUR,280 €,10,,Freelance
+18/02/2019,FR,3D ARTIST,H,Nantes,,EUR,280.00,10,,Freelance
 18/02/2019,FR,3D ARTIST,H,Paris,"28,000 €",EUR,,1,h,CDD
 19/02/2019,FR,3D ARTIST,H,Paris,"31,800 €",EUR,,3,Transport 50%,CDI
 05/08/2020,FR,3D ARTIST,H,Paris,"20,000 €",EUR,,,"Transport 50%, Mutuelle, CE, Tickets Restaurants",CDI
@@ -101,12 +101,12 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 25/02/2019,FR,CONCEPT ARTIST,F,Lyon,"36,000 €",EUR,,2,Liberté,Freelance (1 équivalent temps plein + contrats autres)
 19/02/2019,FR,CONCEPT ARTIST,F,Paris,"30,600 €",EUR,,5,"Transport 50%, mutuelle 50%",CDI - 35h
 18/02/2019,FR,CONCEPT ARTIST / DA,H,Montpellier,"48,000 €",EUR,,8,"mutuelle, rien d’autre",
-05/08/2020,FR,CONCEPT ARTIST / DA,H,Paris,,EUR,400.00 €,10,"Travail à domicile, horaires flexibles",Freelance
-18/02/2019,FR,CONCEPT ARTIST / DA,H,Toulouse,"80,000 €",EUR,500.00 €,10,"que dalle, statut freelance","frais supplémentaires : atelier, matos, etc, freelance life"
-18/02/2019,FR,CONCEPT ARTIST FREELANCE,H,Montpellier,"65,000 €",EUR,500.00 €,8,liberté,
-19/02/2019,FR,CONCEPT ARTIST FREELANCE,H,Paris,"42,000 €",EUR,500.00 €,3,,
+05/08/2020,FR,CONCEPT ARTIST / DA,H,Paris,,EUR,400.00,10,"Travail à domicile, horaires flexibles",Freelance
+18/02/2019,FR,CONCEPT ARTIST / DA,H,Toulouse,"80,000 €",EUR,500.00,10,"que dalle, statut freelance","frais supplémentaires : atelier, matos, etc, freelance life"
+18/02/2019,FR,CONCEPT ARTIST FREELANCE,H,Montpellier,"65,000 €",EUR,500.00,8,liberté,
+19/02/2019,FR,CONCEPT ARTIST FREELANCE,H,Paris,"42,000 €",EUR,500.00,3,,
 18/02/2019,FR,CONTENT MANAGER,H,Montpellier,"27,000 €",EUR,,2,Tickets restau,CDI
-18/02/2019,FR,COURS GD / PRODUCING,H,Montpellier,,EUR,440 €,6,Freelance,(E art Sup)
+18/02/2019,FR,COURS GD / PRODUCING,H,Montpellier,,EUR,440.00,6,Freelance,(E art Sup)
 18/02/2019,FR,DATA ANALYST,H,Paris,"42,000 €",EUR,,2,"Tickets Restau, Titre de transport, Mutuelle, télétravail possible","prime annuelle comprise, CDI"
 06/08/2020,FR,DATA MANAGER,H,Montpellier,"32,500 €",EUR,,4,"Ticket resto, mutuelle, 50% transport, jeux gratuits, ce",CDI 37H
 19/02/2019,FR,DATA MANAGER,H,Paris,"41,000 €",EUR,,9,"Tickets Resto, Heres Supp, Participation, jeux gratuits",CDI
@@ -139,7 +139,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 18/02/2019,FR,ENGINE PROGRAMMER,H,Paris,"35,000 €",EUR,,3,Passion,CDI Cadre 37h
 26/02/2019,FR,ENGINE PROGRAMMER,F,Paris,"43,000 €",EUR,,6,"Ticket Restaurant, 50% Transport",CDI - Cadre
 06/08/2020,FR,ENGINE PROGRAMMER,H,Annecy,"38,000 €",EUR,,5,"jeux gratuits (groupe), intéressement",CDI
-31/05/2020,FR,ENSEIGNANT GAME DEV,H,Toulouse,,EUR,420.00 €,3,Freelance,Freelance
+31/05/2020,FR,ENSEIGNANT GAME DEV,H,Toulouse,,EUR,420.00,3,Freelance,Freelance
 18/02/2019,FR,ENVIRONMENT ARTIST,H,Bordeaux,"25,000 €",EUR,,1.5,"tickets resto, RTTs,50% transports,jeux gratuits+primes",CDD
 25/07/2019,FR,ENVIRONMENT ARTIST,F,Bordeaux,"25,200 €",EUR,,3,"Tickets restos, Mutuelle, 50% transports,",CDD
 19/02/2019,FR,ENVIRONMENT ARTIST,H,Lyon,"24,000 €",EUR,,2.5,"Tickets Resto, 50% transport, Mutuelle (assez médiocre), no crunch obligatoire",CDI
@@ -253,7 +253,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 04/03/2019,FR,GENERALIST PROGRAMMER,H,Paris,"66,400 €",EUR,,8,"Teletravail, jeux gratuits",CDI
 20/02/2019,FR,GENERALIST PROGRAMMER,H,Paris,"67,400 €",EUR,,4,"Transports 50%, fruits toutes les semaines",CDI 35h
 18/02/2019,FR,GENERALIST PROGRAMMER,NB (percu F),Paris,"30,000 €",EUR,,2.5,"titre transport (50%), mutuelle (50%), chèques à noel, une partie de la cantine d'entreprise, pas de crunch et heures supp payées quand il y en a",CDI
-18/02/2019,FR,GENERALIST PROGRAMMER,H,Paris,,EUR,450 €,10,,Auto-entrepreneur
+18/02/2019,FR,GENERALIST PROGRAMMER,H,Paris,,EUR,450.00,10,,Auto-entrepreneur
 19/02/2019,FR,GÉRANT / CHEF DE PROJET,H,Montpellier,,EUR,,7,,Gérant SAS
 18/02/2019,FR,GRAPHIC PROGRAMMER JUNIOR,H,Paris,"20,400 €",EUR,,1,"titre transport (50%), mutuelle (50%), chèques à noel, une partie de la cantine d'entreprise, pas de crunch et heures supp payées quand il y en a",
 18/02/2019,FR,GRAPHISTE,F,Lille,"18,000 €",EUR,,5,"La liberté (créative, horaires, etc.)",Gérante 
@@ -265,7 +265,7 @@ Timestamp,Survey,Job Title,Gender,City,Gross Salary,Currency,Day Rate,Years of X
 18/02/2019,FR,GRAPHISTE 2D,H,Montpellier,"40,000 €",EUR,,20,"tickets resto, heures supp rémunérées, mutuelle, matériel",
 18/02/2019,FR,GRAPHISTE 3D,F,Paris,"25,000 €",EUR,,1,50% transport,CDI
 24/08/2020,FR,HOUDINI TECH ARTIST,H,,"30,000 €",EUR,,1,"Ticket resto, 50% transports, CE, prime vacances, prime de participation, café fruits",CDD - Cadre
-19/02/2019,FR,INDIE DEV + FREELANCE GD/DEV,H,Aix,"26,000 €",EUR,400 €,12,,Freelance AGESSA
+19/02/2019,FR,INDIE DEV + FREELANCE GD/DEV,H,Aix,"26,000 €",EUR,400.00,12,,Freelance AGESSA
 02/09/2020,FR,INTEGRATEUR,H,Bordeaux,"26,000 €",EUR,,2,"Ticket resto, 50% transports, prime de participation, café ",CDD - Cadre
 01/01/2017,FR,JUNIOR ANIMATOR,H,Paris,"28,000 €",EUR,,0.5,"Tickets Restaurants, Remboursement de la carte de Transports en Commun (Pass Navigo)",CDI
 19/02/2019,FR,JUNIOR ASSOCIATE PRODUCER,NB (perçu F),Paris,"24,600 €",EUR,,0.5,"Transport 50%, tickets restaurant, congées payées, jeux dématerialisés, panier de fruit/fruits secs",CDD / 38H
@@ -299,7 +299,7 @@ Après 6 mois de stage (+6 mois dans la même boîte 2 ans avant)"
 20/02/2019,FR,LEAD ARTIST,H,Lyon,"40,000 €",EUR,,10,"Ticket resto, 50% transport, Mutuelle, prime Juin + décembre",CDI 39h
 20/02/2019,FR,LEAD ARTIST,H,Paris,"42,000 €",EUR,,7,"Action en cours d'aquisition, Ticket resto, 50% transport, Mutuelle",CDI 35h
 21/02/2019,FR,LEAD ARTIST 3D,H,Paris,"29,000 €",EUR,,4,Transports 50%,CDI
-27/02/2019,FR,LEAD DESIGNER,H,-,"45,360 €",EUR,300.00 €,10,nada,Micro Entreprise - 4j/5
+27/02/2019,FR,LEAD DESIGNER,H,-,"45,360 €",EUR,300.00,10,nada,Micro Entreprise - 4j/5
 19/02/2019,FR,LEAD DEVELOPER,H,Bordeaux,"18,200 €",EUR,,3,,CDI - 35h
 26/02/2019,FR,LEAD DEVELOPER,H,Lyon,"32,400 €",EUR,,12,Mutuelle,CDI - Cadre
 18/02/2019,FR,LEAD DEVELOPER,H,Montpellier,"31,500 €",EUR,,15,"Tickets resto (10 €), Frais parking 50%, possibilité de télétravail, horaires flexibles",Statut cadre
@@ -360,13 +360,13 @@ Après 6 mois de stage (+6 mois dans la même boîte 2 ans avant)"
 18/02/2019,FR,LEVEL DESIGNER / GRAPH 2D,F,Montpellier,"26,000 €",EUR,,5,Mutuelle et RTT,CDD 39h avec RTT pour revenir aux 35h
 06/04/2021,FR,LIGHTING ARTIST,H,Paris,"34,000 €",EUR,,2,"Tickets resto, 50% transports, Mutuelle, Prime vacances, 2 jours de Télétravail/mois, Télétravail 100% possible ",CDI
 23/04/2021,FR,LIGHTING ARTIST,F,Bordeaux,"30,600 €",EUR,,5,"Tickets resto, Transports 50%, primes de fin d'année (env 100€), prime vacances (~300€ brut) ",CDI 35H
-18/02/2019,FR,MARKETING,F,Montpellier,"24,000 €",EUR,400 €,10,"Tickets restaurant, bonus sur objectif",
-18/02/2019,FR,MARKETING,H,Montpellier,"25,000 €",EUR,400 €,12,Freelance ,
-18/02/2019,FR,MARKETING,F,Montpellier,"27,000 €",EUR,400 €,9,,
+18/02/2019,FR,MARKETING,F,Montpellier,"24,000 €",EUR,400.00,10,"Tickets restaurant, bonus sur objectif",
+18/02/2019,FR,MARKETING,H,Montpellier,"25,000 €",EUR,400.00,12,Freelance ,
+18/02/2019,FR,MARKETING,F,Montpellier,"27,000 €",EUR,400.00,9,,
 04/03/2019,FR,MARKETING,H,Paris,"29,000 €",EUR,,6,"Bonus obligatoires employeur (CE, 50% navigo, cantine, 50% mutuelle) + prime d'intéressement (200€ en 4 ans) + prime de vacances (200€/an ~)",CDI 37h 1RTT/mois
 18/02/2019,FR,MARKETING,H,Paris,"30,000 €",EUR,,1,"Prime d'intéressement annuelle, Tickets restau (10e), équipe exceptionnelle, snacks, boisson, fruits gratuits","il y a une grille de salaire, pour le même poste tout le monde est payé pareil (homme ou femme)"
 28/01/2020,FR,MARKETING,F,Paris,"31,000 €",EUR,,<1,"Ticket resto, 50% transport, mutuelle, RTT, fruits/thé/café en libre service, soirée d'entreprises, formations, certifications, invitation par les régies publicitaires",CDI - Cadre - 37h
-18/02/2019,FR,MARKETING,H,Toulouse,"20,000 €",EUR,300 €,4,Travailler avec des indés / liberté d'esprit,"Freelance pendant 3 ans, auj temps partiel 3/5 + revenus / activités à côté
+18/02/2019,FR,MARKETING,H,Toulouse,"20,000 €",EUR,300.00,4,Travailler avec des indés / liberté d'esprit,"Freelance pendant 3 ans, auj temps partiel 3/5 + revenus / activités à côté
 "
 19/09/2021,FR,MARKETING DEVELOPER,H,Paris,"35,000 €",EUR,,0,"Ticket resto(10€), mutuelle, primes de performances, actions a l'embauche, télétravail partielle, Gymlib(100%)",CDI
 20/02/2019,FR,NARRATIVE DESIGNER,H,Bordeaux,"26,400 €",EUR,,2.5,"Tickets resto (9€, 75% par l'entreprise), Transports 50%, Mutuelle (100% par l'entreprise), prime rentabilité, jeux gratuits, CE ",CDD 35h
@@ -427,9 +427,9 @@ Pas de RTT, pas d'heures supp",Salarié - Cadre
 22/04/2021,FR,QUEST DESIGNER,H,Bordeaux,"28,800 €",EUR,,3,"Tickets resto (8€, 50% par l'entreprise), Transports 50%, Mutuelle (50% par l'entreprise)",CDI - 35h
 19/02/2019,FR,RELEASE MANAGER,H,Montpellier,"42,500 €",EUR,,6,Ticket resto,CDI - Cadre
 09/06/2020,FR,RESSOURCES HUMAINES,F,Annecy,"30,000 €",EUR,,5,"Ticket Resto, CE, RTT, primes, jeux gratuits, intéressements",CDI
-18/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Bordeaux,"25,000 €",EUR,300 €,9,Être libre et indépendant et aussi boire du bon thé et du bon café.,Micro entreprise
-26/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Marseille,"30,000 €",EUR,400 €,3,,freelance
-18/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Toulouse,,EUR,400 €,3,,freelance
+18/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Bordeaux,"25,000 €",EUR,300.00,9,Être libre et indépendant et aussi boire du bon thé et du bon café.,Micro entreprise
+26/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Marseille,"30,000 €",EUR,400.00,3,,freelance
+18/02/2019,FR,SCÉNARISTE/NARRATIVE DESIGN,H,Toulouse,,EUR,400.00,3,,freelance
 20/02/2019,FR,SENIOR 3D ARTIST,H,Lyon,"33,000 €",EUR,,13,"50% transports, 50% ticket resto, mutuelle, 4 jeux offert/an, CE, RTT",CDI - 37h
 18/02/2019,FR,SENIOR 3D ARTIST,H,Paris,"40,000 €",EUR,,10,"Avantages divers (CE, reduction loisirs, jeux gratuits...), 1 RTT par mois, équivalent 13e mois, intéressement",CDD
 18/02/2019,FR,SENIOR 3D ARTIST,H,Paris,"41,000 €",EUR,,13,"Tickets restos, 50% transports, avantages divers (CE, reduction loisirs, jeux gratuits...), 1 RTT par mois","CDI, Bonus sur objectifs inclus dans le salaire, intéressement"
@@ -468,10 +468,10 @@ Pas de RTT, pas d'heures supp",Salarié - Cadre
 19/02/2022,FR,SENIOR SOUND DESIGNER,H,Paris,46 000 €,EUR,,12,"Tickets Resto, RTT, prise en charge de moitié des transports, mutuelle",CDI
 18/02/2019,FR,SOUND DESIGNER,H,Bordeaux,"28,620 €",EUR,,1.8,"Tickets resto, CE, cooptation, heures sup rémun.",37h - CDD -> CDI 
 18/02/2019,FR,SOUND DESIGNER,H,Bordeaux,"32,000 €",EUR,,4,"Tickets resto, CE, cooptation, heures sup rémun.",
-04/03/2019,FR,SOUND DESIGNER,H,Montpellier,"25,000 €",EUR,150 €,10,,
+04/03/2019,FR,SOUND DESIGNER,H,Montpellier,"25,000 €",EUR,150.00,10,,
 18/02/2019,FR,SOUND DESIGNER,H,Paris,"27,000 €",EUR,,5,"tickets restau, heures supp rémunérées, mutuelle, chèques cadeaux",
 19/02/2019,FR,SOUND DESIGNER,H,Paris,"30,800 €",EUR,,3,"Tickets resto, CE, jeux gratuits, prime de renta du jeu éventuelle, participation et intéressement, heures supp payées",CDI
-18/02/2019,FR,SOUND DESIGNER,H,Paris,"37,000 €",EUR,300 €,5,//A,Micro Entreprise
+18/02/2019,FR,SOUND DESIGNER,H,Paris,"37,000 €",EUR,300.00,5,//A,Micro Entreprise
 18/02/2019,FR,SOUND DESIGNER,H,Paris,"42,000 €",EUR,,4,"Tickets resto, jeux gratuits, prime à la rentabilité","CDI 37,5h"
 18/02/2019,FR,SOUND DESIGNER,H,Strasbourg,"25,000 €",EUR,,1,télétravail total / horaires libres,
 19/02/2019,FR,STAGIAIRE PRODUCER ASSOCIE,H,Lyon,"10,800 €",EUR,,1,"Trasport 50%, Ticket Resto, Fruits, events 7 fois par mois, horraire easy = de 10h à 17h",CDD
@@ -508,7 +508,7 @@ Prime de fin d'année , chèques culture","CDI, 39h"
 23/02/2019,FR,UI DESIGNER,F,Paris,"24,000 €",EUR,,2,Tickets resto,CDI 35h
 03/03/2019,FR,UI/GP PROGRAMMER,H,Bordeaux,"31,800 €",EUR,,7,"Tickets Restaurants (9.20), 50% transport, mutuelle, cadre, intéressement, CE",CDD -> CDI 35h
 07/01/2022,FR,USER RESEARCHER,F,Paris,"38,000 €",EUR,,6,"Ticket resto, 50% transports, mutuelle, CE, prime sur objectif, RTT",CDI - 39h
-13/08/2021,FR,USER RESEARCHER (CONSULTING),F,Paris,"50,000 €",EUR,500.00 €,12,,Consulting (A-E)
+13/08/2021,FR,USER RESEARCHER (CONSULTING),F,Paris,"50,000 €",EUR,500.00,12,,Consulting (A-E)
 23/02/2019,FR,UX DESIGNER,F,Paris,"30,000 €",EUR,,<1,"Tickets resto, 50% transports, mutuelle, CE, jeux gratuits.",CDD 38H
 19/02/2019,FR,UX DESIGNER,F,Paris,"34,500 €",EUR,,3,"Tickets resto, jeux gratuits, prime vacances, prime de rentabilité projet...",CDD
 20/02/2019,FR,UX DESIGNER,H,Paris,,EUR,,6,"Tickets resto, jeux gratuits, prime de rentabilité projet, ...",CDI / 39H
